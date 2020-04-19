@@ -3,4 +3,4 @@
 	url = git@github.com:visika/.doom.d.git
 [submodule ".config"]
 	path = .config
-	url = /home/mariano/.config/
+	url = git@github.com:visika/.config.git
